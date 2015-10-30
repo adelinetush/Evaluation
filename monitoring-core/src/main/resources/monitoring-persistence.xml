@@ -1,0 +1,59 @@
+<persistence version="1.0"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+     http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd
+     http://java.sun.com/xml/ns/persistence/orm
+     http://java.sun.com/xml/ns/persistence/orm_1_0.xsd"
+	xmlns:orm="http://java.sun.com/xml/ns/persistence/orm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/persistence">
+	<persistence-unit name="monitoring" transaction-type="RESOURCE_LOCAL">
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+
+		<class>com.planetsystems.monitoring.model.ProjectTeam</class>
+		<class>com.planetsystems.monitoring.model.User</class>
+		<class>com.planetsystems.monitoring.model.Question </class>
+
+		<class>com.planetsystems.monitoring.model.Questionnaire </class>
+
+		<class>com.planetsystems.monitoring.model.Answer</class>
+
+		<class>com.planetsystems.monitoring.model.PerformanceIndicator</class>
+
+
+		<class>com.planetsystems.monitoring.model.Role</class>
+		<class>com.planetsystems.monitoring.model.UnitType</class>
+		<class>com.planetsystems.monitoring.model.units.Department</class>
+		<class>com.planetsystems.monitoring.model.units.Division</class>
+		<class>com.planetsystems.monitoring.model.units.Section</class>
+		<class>com.planetsystems.monitoring.model.units.Unit</class>
+		<class>com.planetsystems.monitoring.model.project.ProjectTitle</class>
+		<class>com.planetsystems.monitoring.model.project.Activities</class>
+		<class>com.planetsystems.monitoring.model.project.Deliverable</class>
+		<class>com.planetsystems.monitoring.model.project.SpecificObjectives</class>
+		<class>com.planetsystems.monitoring.model.project.Tasks</class>
+		<class>com.planetsystems.monitoring.model.project.Goals</class>
+		<class>com.planetsystems.monitoring.model.project.Objectives</class>
+		<class>com.planetsystems.monitoring.model.project.Documents</class>
+
+		<class>com.planetsystems.monitoring.model.audit.AuditEventsTrail</class>
+		<class>com.planetsystems.monitoring.model.audit.AuditSessionTrail</class>
+
+		<class>com.planetsystems.monitoring.model.CurrencyExchangeRate</class>
+		<class>com.planetsystems.monitoring.model.Permission</class>
+		<class>com.planetsystems.monitoring.model.budget.Budget</class>
+		<class>com.planetsystems.monitoring.model.budget.Account</class>
+		<class>com.planetsystems.monitoring.model.budget.AccountCategory</class>
+		<class>com.planetsystems.monitoring.model.budget.Activity</class>
+		<class>com.planetsystems.monitoring.model.Currency</class>
+		<class>com.planetsystems.monitoring.model.project.TeamMember</class>
+
+
+
+		<exclude-unlisted-classes />
+		<properties>
+			<!-- <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect" 
+				/> -->
+			<property name="hibernate.dialect" value="org.hibernate.dialect.SQLServerDialect" />
+			<property name="hibernate.hbm2ddl.auto" value="update" />
+		</properties>
+	</persistence-unit>
+</persistence>

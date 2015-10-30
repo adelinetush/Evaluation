@@ -1,0 +1,204 @@
+2015-08-01 12:57:38,434 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar
+2015-08-01 12:57:38,434 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.jar
+2015-08-01 12:57:38,434 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.jar
+2015-08-01 12:57:38,434 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.jar
+2015-08-01 12:57:38,450 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/1.0/maven-toolchain-1.0.jar
+2015-08-01 12:57:38,731 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.planetsystems.monitoring:monitoring-core:0.0.1-SNAPSHOT @ C:\mande\m-and-e\monitoring-core\pom.xml.
+2015-08-01 12:57:53,121 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.xbean:xbean-reflect:jar:3.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-08-01 12:57:53,324 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.jar
+2015-08-01 12:57:53,324 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.jar
+2015-08-01 12:57:53,324 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.jar
+2015-08-01 12:57:53,339 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.jar
+2015-08-01 12:57:53,339 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.jar
+2015-08-01 12:57:53,339 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.jar
+2015-08-01 12:57:53,339 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
+2015-08-01 12:57:53,355 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.jar
+2015-08-01 12:57:53,542 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.planetsystems.monitoring:monitoring-model:0.0.1-SNAPSHOT @ C:\mande\m-and-e\monitoring-model\pom.xml.
+2015-08-01 12:58:14,958 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.planetsystems.monitoring:monitoring:0.0.1-SNAPSHOT @ C:\mande\m-and-e\monitoring\pom.xml.
+2015-08-13 11:50:49,986 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:50:50,034 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-13 11:50:50,063 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 11:50:50,068 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:50:50,069 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-13 11:50:51,343 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:50:51,344 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-13 11:50:51,347 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:50:51,347 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-13 11:50:59,695 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:50:59,696 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 11:50:59,699 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:50:59,699 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-13 11:52:00,938 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring
+2015-08-13 11:52:00,939 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-08-13 11:52:36,263 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:52:36,326 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 11:52:36,328 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:52:36,328 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-13 11:53:45,482 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.xbean:xbean-reflect:jar:3.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-08-13 11:53:45,636 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.planetsystems.monitoring:monitoring-model:0.0.1-SNAPSHOT @ C:\mande\m-and-e\monitoring-model\pom.xml.
+2015-08-13 11:53:53,749 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.4.3/maven-resources-plugin-2.4.3.pom
+2015-08-13 11:53:54,326 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.4.3/maven-resources-plugin-2.4.3.pom
+2015-08-13 11:53:56,712 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.4.3/maven-resources-plugin-2.4.3.jar
+2015-08-13 11:53:57,968 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.4.3/maven-resources-plugin-2.4.3.jar
+2015-08-13 11:53:59,040 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0-beta-2/wagon-file-1.0-beta-2.jar
+2015-08-13 11:53:59,701 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0-beta-2/wagon-file-1.0-beta-2.jar
+2015-08-13 11:54:01,079 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.planetsystems.monitoring:monitoring:0.0.1-SNAPSHOT @ C:\mande\m-and-e\monitoring\pom.xml.
+2015-08-13 11:54:04,346 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:04,364 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-13 11:54:04,370 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-13 11:54:04,371 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:04,377 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-13 11:54:16,887 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:16,889 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 11:54:16,899 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:16,904 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-13 11:54:19,368 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:19,381 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-13 11:54:19,803 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 11:54:19,810 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:19,810 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-13 11:54:20,847 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:20,849 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-13 11:54:20,857 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:54:20,863 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-13 11:55:08,092 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.planetsystems.monitoring:monitoring-core:0.0.1-SNAPSHOT @ C:\mande\m-and-e\monitoring-core\pom.xml.
+2015-08-13 11:55:09,155 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.planetsystems.monitoring:monitoring:0.0.1-SNAPSHOT @ C:\mande\m-and-e\monitoring\pom.xml.
+2015-08-13 11:55:10,107 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:55:10,112 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-13 11:55:10,118 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:55:10,118 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-13 11:55:16,855 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:55:16,857 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-13 11:55:16,869 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:55:16,869 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-13 11:55:20,504 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:55:20,526 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-13 11:55:20,561 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-13 11:55:20,561 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-13 12:06:41,677 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-13 12:06:56,085 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring-model
+2015-08-13 12:06:56,086 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2015-08-17 16:31:57,883 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 16:31:58,052 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-17 16:31:58,221 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-17 16:31:58,229 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 16:31:58,229 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-17 16:32:01,539 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 16:32:01,540 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-17 16:32:01,682 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 16:32:01,683 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-17 16:32:42,352 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 16:32:42,353 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-17 16:32:42,385 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 16:32:42,386 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-17 16:33:15,072 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-17 16:33:27,906 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring-model
+2015-08-17 16:33:27,907 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2015-08-17 16:34:10,081 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-17 16:34:18,957 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring-core
+2015-08-17 16:34:18,957 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2015-08-17 16:35:29,128 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-17 16:35:39,122 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring
+2015-08-17 16:35:39,136 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2015-08-17 16:40:30,257 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-17 16:40:40,944 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring
+2015-08-17 16:40:41,760 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B gwt:run
+2015-08-26 16:21:22,696 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-26 16:21:22,784 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-26 16:21:24,063 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-26 16:21:24,069 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-26 16:21:24,069 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-26 16:21:28,239 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-26 16:21:28,239 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-26 16:21:28,243 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-26 16:21:28,243 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-26 16:22:00,229 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-26 16:22:00,230 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-26 16:22:00,294 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-26 16:22:00,295 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-27 15:10:12,953 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:10:13,007 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-27 15:10:14,453 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-27 15:10:14,518 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:10:14,518 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-27 15:10:28,820 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:10:28,820 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-27 15:10:28,913 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:10:28,914 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-27 15:10:52,614 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:10:52,615 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-27 15:11:01,502 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.planetsystems.monitoring.Monitoring]
+2015-08-27 15:11:01,575 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - 159 source files from GWT module com.planetsystems.monitoring.Monitoring
+2015-08-27 15:11:04,000 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Exploding webapp
+2015-08-27 15:11:04,002 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Assembling webapp [monitoring] in [C:\mande\m-and-e\monitoring\target\monitoring-0.0.1-SNAPSHOT]
+2015-08-27 15:11:04,017 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Processing war project
+2015-08-27 15:11:04,060 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying webapp resources [C:\mande\m-and-e\monitoring\src\main\webapp]
+2015-08-27 15:11:05,941 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:11:05,941 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-27 15:11:06,323 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.planetsystems.monitoring.Monitoring]
+2015-08-27 15:11:06,731 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - com.planetsystems.monitoring.Monitoring is up to date. GWT compilation skipped
+2015-08-27 15:15:23,124 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:15:23,142 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-27 15:15:23,157 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-27 15:15:23,160 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:15:23,161 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-27 15:15:25,274 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:15:25,274 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-27 15:15:25,277 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:15:25,278 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-27 15:46:40,776 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:46:40,789 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-27 15:46:40,809 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-27 15:46:40,812 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:46:40,812 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-08-27 15:46:42,493 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:46:42,494 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-08-27 15:46:42,499 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:46:42,499 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-08-27 15:46:43,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:46:43,517 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-27 15:46:43,519 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-27 15:46:43,520 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-08-30 21:56:16,370 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-30 21:56:16,408 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 57 resources
+2015-08-30 21:56:16,764 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-08-30 21:56:16,774 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-30 21:56:16,775 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-model\src\test\resources
+2015-10-08 14:47:28,204 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 14:47:28,232 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2015-10-08 14:47:28,380 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 14:47:28,380 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring-core\src\test\resources
+2015-10-08 14:48:09,623 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 14:48:09,627 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-08 14:48:19,326 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.planetsystems.monitoring.Monitoring]
+2015-10-08 14:48:19,422 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - 159 source files from GWT module com.planetsystems.monitoring.Monitoring
+2015-10-08 14:48:21,739 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Exploding webapp
+2015-10-08 14:48:21,739 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Assembling webapp [monitoring] in [C:\mande\m-and-e\monitoring\target\monitoring-0.0.1-SNAPSHOT]
+2015-10-08 14:48:21,751 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Processing war project
+2015-10-08 14:48:21,751 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying webapp resources [C:\mande\m-and-e\monitoring\src\main\webapp]
+2015-10-08 14:48:24,311 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 14:48:24,311 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mande\m-and-e\monitoring\src\test\resources
+2015-10-08 14:48:24,772 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - auto discovered modules [com.planetsystems.monitoring.Monitoring]
+2015-10-08 14:48:25,368 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - com.planetsystems.monitoring.Monitoring is up to date. GWT compilation skipped
+2015-10-08 14:49:00,851 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring
+2015-10-08 14:49:00,855 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B gwt:run
+2015-10-17 11:10:12,267 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\mande\m-and-e\monitoring
+2015-10-17 11:10:12,288 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B gwt:run
